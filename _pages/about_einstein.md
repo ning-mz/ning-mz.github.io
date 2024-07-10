@@ -1,0 +1,1 @@
+I am currently a PhD student at Xi'an Jiaotong-Liverpool University and also registered at the University of Liverpool. I am also a student in the research group [PremiLab-Math](https://premilab-math.github.io/), focus on solving math problems with AI.
