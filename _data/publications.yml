@@ -36,3 +36,10 @@ main:
     conference: International Conference on Neural Information Processing <strong>(ICONIP)</strong>, 2021.
     pdf: https://link.springer.com/chapter/10.1007/978-3-030-92307-5_88
     image: ./assets/img/iconip.jpg
+
+  - title: "Model Checking Indoor Positioning System With Triangulation Positioning Technology"
+    authors: Dengpan Yuan, <strong>Maizhen Ning</strong>, Runguo Xu, Shuming Zhou, Wentao Shi, Kai Zheng, Xin Huang
+    conference_short: ITME
+    conference: International Conference on Information Technology in Medicine and Education <strong>(ITME)</strong>, 2018.
+    pdf: https://ieeexplore.ieee.org/abstract/document/8589425
+    image: ./assets/img/itme.png
