@@ -7,7 +7,7 @@ main:
     image: ./assets/img/gns.png
     notes: Accepted
 
-  - title: "Is your model really a good math reasoner? evaluating mathematical reasoning with checklist"
+  - title: "Is Your Model Really a Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist"
     authors: Zihao Zhou*, Shudong Liu*, <strong>Maizhen Ning</strong>, Wei Liu, Jindong Wang, Derek F Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang
     conference_short: preprint
     conference: arXiv preprint arXiv:2407.08733, 2024.
