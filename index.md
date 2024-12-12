@@ -18,4 +18,4 @@ I am also a student in the research group PremiLab-Math, focus on solving math p
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

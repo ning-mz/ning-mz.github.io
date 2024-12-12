@@ -1,22 +1,38 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs
+    authors: <strong>Maizhen Ning*</strong>, Zihao Zhou* Qiu-Feng Wang, Xiaowei Huang, Kaizhu Huang
+    conference_short: AAAI
+    conference: The 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    image: ./assets/img/gns.png
+    notes: Accepted
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Is your model really a good math reasoner? evaluating mathematical reasoning with checklist"
+    authors: Zihao Zhou*, Shudong Liu*, <strong>Maizhen Ning</strong>, Wei Liu, Jindong Wang, Derek F Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang
+    conference_short: preprint
+    conference: arXiv preprint arXiv:2407.08733, 2024.
+    pdf: https://arxiv.org/pdf/2407.08733
+    image: ./assets/img/MathCheck.jpg
+    project: https://mathcheck.github.io
+
+  - title: "A Symbolic Characters Aware Model for Solving Geometry Problems"
+    authors: <strong>Maizhen Ning</strong>, Qiu-Feng Wang, Kaizhu Huang, Xiaowei Huang
+    conference_short: ACM MM
+    conference: The 31st ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3581783.3612570
+    image: ./assets/img/scagps.jpg
+
+
+  - title: "Learning by Analogy: Diverse Questions Generation in Math Word Problem"
+    authors: Zihao Zhou*, <strong>Maizhen Ning*</strong>, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, Kaizhu Huang
+    conference_short: ACL Findings
+    conference: The 61st Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2023.
+    pdf: https://aclanthology.org/2023.findings-acl.705/
+    image: ./assets/img/DQGF.png
+
+  - title: "A Segment-Based Layout Aware Model for Information Extraction on Document Images"
+    authors: <strong>Maizhen Ning</strong>, Qiu-Feng Wang, Kaizhu Huang, Xiaowei Huang
+    conference_short: ICONIP
+    conference: International Conference on Neural Information Processing <strong>(ICONIP)</strong>, 2021.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-92307-5_88
+    image: ./assets/img/iconip.jpg
