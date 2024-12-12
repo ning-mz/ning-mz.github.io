@@ -13,7 +13,7 @@ main:
     conference: arXiv preprint arXiv:2407.08733, 2024.
     pdf: https://arxiv.org/pdf/2407.08733
     image: ./assets/img/MathCheck.jpg
-    project: https://mathcheck.github.io
+    page: https://mathcheck.github.io
 
   - title: "A Symbolic Characters Aware Model for Solving Geometry Problems"
     authors: <strong>Maizhen Ning</strong>, Qiu-Feng Wang, Kaizhu Huang, Xiaowei Huang
