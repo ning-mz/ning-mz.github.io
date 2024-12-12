@@ -14,8 +14,8 @@ I am also a student in the research group PremiLab-Math, focus on solving math p
 
 ## Education
 
-- **Ph.D. :** Dec 2020 - Present, University of Liverpool, Xi'an Jiaotong-Liverpool University
-- **B.Sc. in Computer Science :** Sep 2016 - Jun 2020 , University of Liverpool, Xi'an Jiaotong-Liverpool University
+- **Ph.D. in Computer Science:** Dec 2020 - Present, University of Liverpool, Xi'an Jiaotong-Liverpool University
+- **B.Sc. in Computer Science:** Sep 2016 - Jun 2020 , University of Liverpool, Xi'an Jiaotong-Liverpool University
 
 ## News
 
