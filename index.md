@@ -25,6 +25,11 @@ I am also a student in the research group PremiLab-Math, focus on solving math p
 
 <!-- {% include_relative _includes/services.md %} -->
 
+## Experience
+
+- **Teaching Assistant:** Mar 2021 - May 2024, School of Advanced Technology, XJTLU
+- **Tech Intern:** Sep 2016 - Jul 2017, Management Information Technology and System Office, XJTLU
+
 
 ## Awards
 
