@@ -4,18 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. student at Xi'an Jiaotong-Liverpool University and also registered at the University of Liverpool, supervised by [Prof. Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang), [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
-I am also a student in the research group [PremiLab-Math](https://premilab-math.github.io), focus on solving math problems with AI. Also welcome to check my [bilibili](https://space.bilibili.com/268165497?spm_id_from=333.1007.0.0).
+I am currently a Ph.D. student at the University of Liverpool and based off-site at Xi'an Jiaotong-Liverpool University, supervised by [Prof. Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang), [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
+I am also a student in the research group [PremiLab-Math](https://premilab-math.github.io), focus on solving math problems with AI. In the future, I will extend my research to Embodied AI. Also welcome to check my [bilibili](https://space.bilibili.com/268165497?spm_id_from=333.1007.0.0).
 
 ## Research Interests
 
 - **Large Language Model:** Reasoning on math problems
-- **Robotics:** Embodied AI
+- **Robotics:** Embodied AI with LLM
 
 ## Education
 
-- **Ph.D. in Computer Science:** Dec 2020 - Present, University of Liverpool, Xi'an Jiaotong-Liverpool University
-- **B.Sc. in Computer Science:** Sep 2016 - Jun 2020 , University of Liverpool, Xi'an Jiaotong-Liverpool University. (First Class Honours)
+- **Ph.D. in Computer Science:** Dec 2020 - Present, University of Liverpool & Xi'an Jiaotong-Liverpool University
+- **B.Sc. in Computer Science:** Sep 2016 - Jun 2020 , University of Liverpool & Xi'an Jiaotong-Liverpool University. (First Class Honours)
 
 ## News
 
