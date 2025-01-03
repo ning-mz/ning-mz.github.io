@@ -3,14 +3,14 @@ main:
   - title: "GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs"
     authors: <strong>Maizhen Ning*</strong>, Zihao Zhou* Qiu-Feng Wang, Xiaowei Huang, Kaizhu Huang
     conference_short: AAAI
-    conference: The 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    conference: "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
     image: ./assets/img/gns.png
     notes: Accepted
 
   - title: "Is Your Model Really a Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist"
     authors: Zihao Zhou*, Shudong Liu*, <strong>Maizhen Ning</strong>, Wei Liu, Jindong Wang, Derek F Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang
     conference_short: preprint
-    conference: arXiv preprint arXiv:2407.08733, 2024.
+    conference: "arXiv preprint arXiv:2407.08733, 2024."
     pdf: https://arxiv.org/pdf/2407.08733
     image: ./assets/img/MathCheck.jpg
     page: https://mathcheck.github.io
@@ -18,7 +18,7 @@ main:
   - title: "A Symbolic Characters Aware Model for Solving Geometry Problems"
     authors: <strong>Maizhen Ning</strong>, Qiu-Feng Wang, Kaizhu Huang, Xiaowei Huang
     conference_short: ACM MM
-    conference: The 31st ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2023.
+    conference: "The 31st ACM International Conference on Multimedia (ACM MM), 2023."
     pdf: https://dl.acm.org/doi/abs/10.1145/3581783.3612570
     image: ./assets/img/scagps.jpg
 
@@ -26,20 +26,20 @@ main:
   - title: "Learning by Analogy: Diverse Questions Generation in Math Word Problem"
     authors: Zihao Zhou*, <strong>Maizhen Ning*</strong>, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, Kaizhu Huang
     conference_short: ACL Findings
-    conference: "Findings of the Association for Computational Linguistics: ACL 2023" <strong>(ACL Findings)</strong>, 2023.
+    conference: "Findings of the Association for Computational Linguistics: ACL 2023 (ACL Findings), 2023."
     pdf: https://aclanthology.org/2023.findings-acl.705/
     image: ./assets/img/DQGF.jpg
 
   - title: "A Segment-Based Layout Aware Model for Information Extraction on Document Images"
     authors: <strong>Maizhen Ning</strong>, Qiu-Feng Wang, Kaizhu Huang, Xiaowei Huang
     conference_short: ICONIP
-    conference: The 28th International Conference on Neural Information Processing <strong>(ICONIP)</strong>, 2021.
+    conference: "The 28th International Conference on Neural Information Processing (ICONIP), 2021."
     pdf: https://link.springer.com/chapter/10.1007/978-3-030-92307-5_88
     image: ./assets/img/iconip.jpg
 
   - title: "Model Checking Indoor Positioning System With Triangulation Positioning Technology"
     authors: Dengpan Yuan, <strong>Maizhen Ning</strong>, Runguo Xu, Shuming Zhou, Wentao Shi, Kai Zheng, Xin Huang
     conference_short: ITME
-    conference: The 8th International Conference on Information Technology in Medicine and Education <strong>(ITME)</strong>, 2018.
+    conference: "The 8th International Conference on Information Technology in Medicine and Education (ITME), 2018."
     pdf: https://ieeexplore.ieee.org/abstract/document/8589425
     image: ./assets/img/itme.png
