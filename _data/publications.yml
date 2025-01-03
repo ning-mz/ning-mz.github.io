@@ -26,7 +26,7 @@ main:
   - title: "Learning by Analogy: Diverse Questions Generation in Math Word Problem"
     authors: Zihao Zhou*, <strong>Maizhen Ning*</strong>, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, Kaizhu Huang
     conference_short: ACL Findings
-    conference: Findings of the Association for Computational Linguistics":" ACL 2023 <strong>(ACL Findings)</strong>, 2023.
+    conference: "Findings of the Association for Computational Linguistics: ACL 2023" <strong>(ACL Findings)</strong>, 2023.
     pdf: https://aclanthology.org/2023.findings-acl.705/
     image: ./assets/img/DQGF.jpg
 
