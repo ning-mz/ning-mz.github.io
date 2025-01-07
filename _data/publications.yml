@@ -1,7 +1,7 @@
 main:
 
   - title: "GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs"
-    authors: <strong>Maizhen Ning*</strong>, Zihao Zhou* Qiu-Feng Wang, Xiaowei Huang, Kaizhu Huang
+    authors: <strong>Maizhen Ning*</strong>, Zihao Zhou*, Qiu-Feng Wang, Xiaowei Huang, Kaizhu Huang
     conference_short: AAAI
     conference: "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
     image: ./assets/img/gns.png
