@@ -19,7 +19,8 @@ I am also a student in the research group [PremiLab-Math](https://premilab-math.
 
 ## News
 
-- **[Dec. 2024]** One paper about MLLM on solving plane geometry problems is accepted to AAAI 2025.
+- **[Jan. 2025]** One paper about LLM math problem reasoning evaluation is accepted to ICLR 2025.
+- **[Dec. 2024]** One paper about MLLM on solving plane geometry problems is accepted to AAAI 2025 as Oral Presentation.
 
 {% include_relative _includes/publications.md %}
 
