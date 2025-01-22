@@ -5,12 +5,12 @@ main:
     conference_short: AAAI
     conference: "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
     image: ./assets/img/gns.png
-    notes: Accepted
+    notes: Oral
 
   - title: "Is Your Model Really a Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist"
     authors: Zihao Zhou*, Shudong Liu*, <strong>Maizhen Ning</strong>, Wei Liu, Jindong Wang, Derek F Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang
-    conference_short: preprint
-    conference: "arXiv preprint arXiv:2407.08733, 2024."
+    conference_short: ICLR
+    conference: "The Thirteenth International Conference on Learning Representations (ICLR), 2025."
     pdf: https://arxiv.org/pdf/2407.08733
     image: ./assets/img/MathCheck.jpg
     page: https://mathcheck.github.io
