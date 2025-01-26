@@ -1,12 +1,5 @@
 main:
 
-  - title: "GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs"
-    authors: <strong>Maizhen Ning*</strong>, Zihao Zhou*, Qiu-Feng Wang, Xiaowei Huang, Kaizhu Huang
-    conference_short: AAAI
-    conference: "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
-    image: ./assets/img/gns.png
-    notes: Oral
-
   - title: "Is Your Model Really a Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist"
     authors: Zihao Zhou*, Shudong Liu*, <strong>Maizhen Ning</strong>, Wei Liu, Jindong Wang, Derek F Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang
     conference_short: ICLR
@@ -14,6 +7,13 @@ main:
     pdf: https://arxiv.org/pdf/2407.08733
     image: ./assets/img/MathCheck.jpg
     page: https://mathcheck.github.io
+  
+  - title: "GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs"
+    authors: <strong>Maizhen Ning*</strong>, Zihao Zhou*, Qiu-Feng Wang, Xiaowei Huang, Kaizhu Huang
+    conference_short: AAAI
+    conference: "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
+    image: ./assets/img/gns.png
+    notes: Oral Presentation
 
   - title: "A Symbolic Characters Aware Model for Solving Geometry Problems"
     authors: <strong>Maizhen Ning</strong>, Qiu-Feng Wang, Kaizhu Huang, Xiaowei Huang
