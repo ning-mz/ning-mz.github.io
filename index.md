@@ -10,7 +10,6 @@ I am also a student in the research group [PremiLab-Math](https://premilab-math.
 ## Research Interests
 
 - **Large Language Model:** Reasoning on math problems
-- **Robotics:** Embodied AI with LLM
 
 ## Education
 
