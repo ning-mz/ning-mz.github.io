@@ -12,8 +12,9 @@ main:
     authors: <strong>Maizhen Ning*</strong>, Zihao Zhou*, Qiu-Feng Wang, Xiaowei Huang, Kaizhu Huang
     conference_short: AAAI
     conference: "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/34679
     image: ./assets/img/gns.png
-    notes: Oral Presentation
+    notes: Oral
 
   - title: "A Symbolic Characters Aware Model for Solving Geometry Problems"
     authors: <strong>Maizhen Ning</strong>, Qiu-Feng Wang, Kaizhu Huang, Xiaowei Huang
