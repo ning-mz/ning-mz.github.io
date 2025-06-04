@@ -1,5 +1,11 @@
 main:
 
+  - title: "DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model"
+    authors: Weiguang Zhang, Huangcheng Lu, <strong>Maizhen Ning</strong>, Xiaowei Huang, Wei Wang, Kaizhu Huang, Qiufeng Wang
+    conference: arxiv preprint
+    pdf: https://arxiv.org/pdf/2505.21975
+    image: ./assets/img/DvD.png
+
   - title: "Is Your Model Really a Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist"
     authors: Zihao Zhou*, Shudong Liu*, <strong>Maizhen Ning</strong>, Wei Liu, Jindong Wang, Derek F Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang
     conference_short: ICLR
