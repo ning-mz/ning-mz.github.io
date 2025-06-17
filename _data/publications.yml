@@ -1,5 +1,12 @@
 main:
 
+  - title: "GeoSDF: Plane Geometry Diagram Synthesis via Signed Distance Field"
+    authors: Chengrui Zhang*, <strong>Maizhen Ning*</strong>, Zihao Zhou, Jie Sun, Kaizhu Huang, Qiufeng Wang
+    conference_short: arXiv
+    conference: arXiv
+    pdf: https://arxiv.org/pdf/2506.13492
+    image: ./assets/img/geosdf.png
+
   - title: "DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model"
     authors: Weiguang Zhang, Huangcheng Lu, <strong>Maizhen Ning</strong>, Xiaowei Huang, Wei Wang, Kaizhu Huang, Qiufeng Wang
     conference_short: arXiv
