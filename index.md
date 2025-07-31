@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a research intern at Duke Kunshan University. In previous, I obtained my Ph.D. from the University of Liverpool in 2025, supervised by [Prof. Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang), [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). I am also a member in the research group [PremiLab-Math](https://premilab-math.github.io), focus on solving math problems with AI. In the future, I will extend my research to Embodied AI. Also welcome to check my [bilibili](https://space.bilibili.com/268165497?spm_id_from=333.1007.0.0).
+I am currently a PostDoc at Duke Kunshan University, reporting to [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home). In previous, I obtained my Ph.D. from the University of Liverpool in July 2025, supervised by [Prof. Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang), [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). I am also a member in the research group [PremiLab-Math](https://premilab-math.github.io), focus on solving math problems with AI. In the future, I will extend my research to Embodied AI. Also welcome to check my [bilibili](https://space.bilibili.com/268165497?spm_id_from=333.1007.0.0).
 
 ## Research Interests
 
@@ -13,7 +13,7 @@ I am currently a research intern at Duke Kunshan University. In previous, I obta
 
 ## Education
 
-- **Ph.D. in Computer Science:** Dec 2020 - July 2025, University of Liverpool & Xi'an Jiaotong-Liverpool University.
+- **Ph.D. in Computer Science:** Dec 2020 - July 2025, University of Liverpool.
 - **B.Sc. in Computer Science:** Sep 2016 - Jun 2020 , University of Liverpool & Xi'an Jiaotong-Liverpool University. (First Class Honours)
 
 ## News
