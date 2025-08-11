@@ -18,6 +18,7 @@ I am currently a PostDoc at Duke Kunshan University, reporting to [Prof. Kaizhu 
 
 ## News
 
+- **[Aug. 2025]** One paper about document dewarping is accepted to SIGGRAPH Asia 2025.
 - **[Jan. 2025]** One paper about LLM math problem reasoning evaluation is accepted to ICLR 2025.
 - **[Dec. 2024]** One paper about MLLM on solving plane geometry problems is accepted to AAAI 2025 as Oral Presentation.
 
