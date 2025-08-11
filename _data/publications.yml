@@ -9,8 +9,8 @@ main:
 
   - title: "DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model"
     authors: Weiguang Zhang, Huangcheng Lu, <strong>Maizhen Ning</strong>, Xiaowei Huang, Wei Wang, Kaizhu Huang, Qiufeng Wang
-    conference_short: arXiv
-    conference: arXiv
+    conference_short: SIGGRAPH Asia
+    conference: "The 17th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH Asia), 2025."
     pdf: https://arxiv.org/pdf/2505.21975
     image: ./assets/img/DvD.png
 
