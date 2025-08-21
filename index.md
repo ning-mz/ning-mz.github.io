@@ -31,6 +31,10 @@ I am currently a PostDoc at Duke Kunshan University, reporting to [Prof. Kaizhu 
 - **Teaching Assistant:** Mar 2021 - May 2024, School of Advanced Technology, XJTLU
 - **Tech Intern:** Sep 2016 - Jul 2017, Management Information Technology and System Office, XJTLU
 
+## Service
+
+- **BICS 2025:** Registration Chair
+
 
 ## Awards
 
