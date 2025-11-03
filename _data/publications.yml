@@ -1,7 +1,13 @@
 main:
+  - title: "Physically Informed Magnetic Tracking for Continuum Robots"
+    authors: Yuanrui Huang, <strong>Maizhen Ning</strong>, Wendu Zhang and Shuangyi Wang.
+    conference_short: UnderReview
+    conference: UnderReview
+    image: ./assets/img/icra.png
+
 
   - title: "GeoSDF: Plane Geometry Diagram Synthesis via Signed Distance Field"
-    authors: Chengrui Zhang*, <strong>Maizhen Ning*</strong>, Zihao Zhou, Jie Sun, Kaizhu Huang, Qiufeng Wang
+    authors: Chengrui Zhang*, <strong>Maizhen Ning*</strong>, Tianyi Liu, Zihao Zhou, Jie Sun, Qiufeng Wang, Kaizhu Huang.
     conference_short: arXiv
     conference: arXiv
     pdf: https://arxiv.org/pdf/2506.13492
