@@ -8,7 +8,7 @@ I am currently a PostDoc at Duke Kunshan University, reporting to [Prof. Kaizhu 
 
 ## Research Interests
 
-- **Large Language Model:** Reasoning on math problems
+- **Large Language Model:** Reasoning on math problems, AI4Math
 - **Robotics:** Embodied AI
 
 ## Education
@@ -40,3 +40,4 @@ I am currently a PostDoc at Duke Kunshan University, reporting to [Prof. Kaizhu 
 
 - **RoboMaster 2022:** First prize in the Robomaster national competition, XJTLU G-Master team
 - **RoboMaster 2021:** Second prize in the RoboMaster national competition, XJTLU G-Master team
+- **Full Doctoral Scholarship** Xi'an Jiaotong-Liverpool University, University of Liverpool.
