@@ -8,7 +8,8 @@ I am currently a PostDoc at Duke Kunshan University, reporting to [Prof. Kaizhu 
 
 ## Research Interests
 
-- **Large Language Model:** Reasoning on math problems, AI4Math
+- **Large Language Model:** Geometrytry Problem Solving, AI4Math
+- **Document Processing:** Document Dewarping, Document Understanding
 - **Robotics:** Embodied AI
 
 ## Education
