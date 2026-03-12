@@ -1,0 +1,6 @@
+main:
+  - title: "Embodied Model Application"
+    subtitle: "Parcel Grasping for Humanoid Robots"
+    period: "2025.11 - 2025.12"
+    description: "Collaborated with FiveAges. Based on the Unitree G1 robot platform and dexterous hands, implemented an end-to-end frame-work for autonomous parcel identification, grasping, and placement. Responsible for training and optimizing the NVIDIA GR00T N1.5 model using teleoperation data and deploying it via SDK on the physical robot."
+    video: ./assets/unitree.mp4
