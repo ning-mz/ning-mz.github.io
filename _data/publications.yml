@@ -1,8 +1,8 @@
 main:
-  - title: "Physically Informed Magnetic Tracking for Continuum Robots"
-    authors: <strong>Maizhen Ning</strong>, Yuanrui Huang.
-    conference_short: UnderReview
-    conference: UnderReview
+  - title: "Automatic Cross-Sectional Layout Generation and Stiffness Optimization for Medical Continuum Robots"
+    authors: <strong>Maizhen Ning</strong>, Wendu Zhang, Bintao Hu, Yuanrui Huang.
+    conference_short: CASE
+    conference: "2026 IEEE 22nd International Conference on Automation Science and Engineering"
     image: ./assets/img/icra.png
 
 
