@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a MLLM Algorithm Engineer at Tecent Yuanbao. In previous, I was a PostDoc at Duke Kunshan University, reporting to [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home). In previous, I obtained my Ph.D. from the University of Liverpool in July 2025, supervised by [Prof. Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang), [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). I am also a member in the research group [PremiLab-Math](https://premilab-math.github.io), focus on solving math problems with AI. In the future, I will extend my research to Embodied AI. Also welcome to check my [bilibili](https://space.bilibili.com/268165497?spm_id_from=333.1007.0.0).
+I am currently a MLLM Algorithm Engineer at Tecent Yuanbao. In previous, I was a PostDoc at Duke Kunshan University, reporting to [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home). I obtained my Ph.D. from the University of Liverpool in July 2025, supervised by [Prof. Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang), [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). I am also a member in the research group [PremiLab-Math](https://premilab-math.github.io), focus on solving math problems with AI. In the future, I will extend my research to Embodied AI. Also welcome to check my [bilibili](https://space.bilibili.com/268165497?spm_id_from=333.1007.0.0).
 
 ## Research Interests
 
