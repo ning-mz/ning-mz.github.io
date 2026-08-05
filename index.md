@@ -14,11 +14,9 @@ I am currently a LLM Algorithm Engineer at Tencent Yuanbao focus on post trainin
 
 ## Work Experience
 
-- **LLM Algorithm Engineer:** Tencent, Jun 2026 - Present
+- **LLM Algorithm Engineer:** Yuanbao Education Group, Tencent, Jun 2026 - Present
 - **PostDoc Research Follow:** Duke Kunshan University, Jul 2025 - May 2026
 - **Teaching Assistant:** School of Advanced Technology, XJTLU, Mar 2021 - May 2024
-- **Tech Intern:** Management Information Technology and System Office, XJTLU, Sep 2016 - Jul 2017, 
-
   
 ## Education
 
