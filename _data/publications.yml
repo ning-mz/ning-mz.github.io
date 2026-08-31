@@ -1,5 +1,12 @@
 main:
 
+  - title: "A Multimodal LLM Framework with Time-Series-Guided Visual Routing for Ultra-Short-Term Solar Forecasting"
+    authors: Yiheng Li*, <strong>Maizhen Ning*</strong>, Xiaoyang Chen, Guoping Ruan, Junwei Wu, Fangyu Wu, Yi Dong, Eng Gee Lim, Yang Du.
+    conference_short: Under Review
+    conference: "Under Review, 2026."
+    image: ./assets/img/ultra_short.png
+
+
   - title: "SkyEvo: Generative Probabilistic Solar Forecasting with Sky Image Evolution"
     authors: Guoping Ruan, Yiheng Li, Xiaoyang Chen, Eng Gee Lim, <strong>Maizhen Ning</strong>, Qi Su, Lin Jiang, Yang Du.
     conference_short: Solar Energy
