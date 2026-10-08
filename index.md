@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a LLM Algorithm Engineer at Tencent Yuanbao focus on post training. In previous, I was a PostDoc at Duke Kunshan University, reporting to [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home). I obtained my Ph.D. from the University of Liverpool in July 2025, supervised by [Prof. Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang), [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). I am also a member in the research group [PremiLab-Math](https://premilab-math.github.io), focus on solving math problems with AI. In the future, I will extend my research to Embodied AI. Also welcome to check my [bilibili](https://space.bilibili.com/268165497?spm_id_from=333.1007.0.0).
+I am currently a LLM Algorithm Engineer at Tencent Yuanbao focus on post training. In previous, I was a PostDoc at Duke Kunshan University, reporting to [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home). I obtained my Ph.D. from the University of Liverpool in July 2025, supervised by [Prof. Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang), [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). Also welcome to check my [bilibili](https://space.bilibili.com/268165497?spm_id_from=333.1007.0.0).
 
 ## Research Interests
 
@@ -25,6 +25,7 @@ I am currently a LLM Algorithm Engineer at Tencent Yuanbao focus on post trainin
 
 ## News
 
+- **[Oct. 2026]** One paper about MLLM in solar forecasting is accepted to Advanced Engineering Informatics.
 - **[Apr. 2026]** I am honored to be selected for the Tencent Project Up and will be joining Tencent Yuanbao in June.
 - **[Aug. 2025]** One paper about document dewarping is accepted to SIGGRAPH Asia 2025.
 - **[Jan. 2025]** One paper about LLM math problem reasoning evaluation is accepted to ICLR 2025.
@@ -39,6 +40,7 @@ I am currently a LLM Algorithm Engineer at Tencent Yuanbao focus on post trainin
 ## Services
 
 - **BICS 2025:** Registration Chair
+- **Reviewer:** ICLR, ACL ARR, NeurIPS
 
 
 ## Awards
