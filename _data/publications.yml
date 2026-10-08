@@ -2,10 +2,17 @@ main:
 
   - title: "A Multimodal LLM Framework with Time-Series-Guided Visual Routing for Ultra-Short-Term Solar Forecasting"
     authors: Yiheng Li*, <strong>Maizhen Ning*</strong>, Xiaoyang Chen, Guoping Ruan, Junwei Wu, Fangyu Wu, Yi Dong, Eng Gee Lim, Yang Du.
-    conference_short: Under Review
-    conference: "Under Review, 2026."
+    conference: "Advanced Engineering Informatics, Elsevier, 2026."
+    pdf: https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=7239481
     image: ./assets/img/ultra_short.png
 
+
+  - title: "Reactivating Test-Time Scaling for Plane Geometry Problem Solving"
+    authors: Xiaoqiang Kang, Shengen Wu, <strong>Maizhen Ning</strong>, Xiaobo Jin, Kaizhu Huang, Yutao Yue, Xiaowei Huang, Qiufeng Wang.
+    conference_short: EMNLP
+    conference: "The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026."
+    pdf: https://arxiv.org/pdf/2608.30156
+    image: ./assets/img/CG-MTE.png
 
   - title: "SkyEvo: Generative Probabilistic Solar Forecasting with Sky Image Evolution"
     authors: Guoping Ruan, Yiheng Li, Xiaoyang Chen, Eng Gee Lim, <strong>Maizhen Ning</strong>, Qi Su, Lin Jiang, Yang Du.
