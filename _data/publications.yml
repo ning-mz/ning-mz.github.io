@@ -14,20 +14,18 @@ main:
     pdf: https://arxiv.org/pdf/2608.30156
     image: ./assets/img/CG-MTE.png
 
-  - title: "SkyEvo: Generative Probabilistic Solar Forecasting with Sky Image Evolution"
-    authors: Guoping Ruan, Yiheng Li, Xiaoyang Chen, Eng Gee Lim, <strong>Maizhen Ning</strong>, Qi Su, Lin Jiang, Yang Du.
-    conference_short: Solar Energy
-    conference: "Solar Energy, Elsevier, 2026."
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0038092X26006857
-    image: ./assets/img/skyevo.png
-  
-  
   - title: "Automatic Cross-Sectional Layout Generation and Stiffness Optimization for Medical Continuum Robots"
     authors: <strong>Maizhen Ning</strong>, Wendu Zhang, Bintao Hu, Yuanrui Huang.
     conference_short: CASE
     conference: "IEEE 22nd International Conference on Automation Science and Engineering, 2026."
     image: ./assets/img/icra.png
 
+  - title: "SkyEvo: Generative Probabilistic Solar Forecasting with Sky Image Evolution"
+    authors: Guoping Ruan, Yiheng Li, Xiaoyang Chen, Eng Gee Lim, <strong>Maizhen Ning</strong>, Qi Su, Lin Jiang, Yang Du.
+    conference_short: Solar Energy
+    conference: "Solar Energy, Elsevier, 2026."
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0038092X26006857
+    image: ./assets/img/skyevo.png
 
   - title: "GeoSDF: Plane Geometry Diagram Synthesis via Signed Distance Field"
     authors: Chengrui Zhang*, <strong>Maizhen Ning*</strong>, Tianyi Liu, Zihao Zhou, Jie Sun, Qiufeng Wang, Kaizhu Huang.
