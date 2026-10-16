@@ -18,6 +18,7 @@ main:
     authors: <strong>Maizhen Ning</strong>, Wendu Zhang, Bintao Hu, Yuanrui Huang.
     conference_short: CASE
     conference: "IEEE 22nd International Conference on Automation Science and Engineering, 2026."
+    pdf: https://ieeexplore.ieee.org/abstract/document/11704445
     image: ./assets/img/icra.png
 
   - title: "SkyEvo: Generative Probabilistic Solar Forecasting with Sky Image Evolution"
