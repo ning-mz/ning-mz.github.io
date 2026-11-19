@@ -1,11 +1,17 @@
 main:
 
+  - title: "From Restoration to Redrawing: Revitalizing Ancient Chinese Characters by SVG Code Generation and Editing"
+    authors: Weiguang Zhang, Linhua Dong, Bin Dong, Shanshan Jiang, <strong>Maizhen Ning</strong>, Xiaoqiang Kang, Kun Zhang, Hao Xu, Xiaowei Huang, Wei Wang, Kaizhu Huang, Qiufeng Wang.
+    conference_short: arXiv
+    conference: arXiv
+    pdf: https://arxiv.org/pdf/2611.24084
+    image: ./assets/img/redraw.png
+
   - title: "A Multimodal LLM Framework with Time-Series-Guided Visual Routing for Ultra-Short-Term Solar Forecasting"
     authors: Yiheng Li*, <strong>Maizhen Ning*</strong>, Xiaoyang Chen, Guoping Ruan, Junwei Wu, Fangyu Wu, Yi Dong, Eng Gee Lim, Yang Du.
     conference: "Advanced Engineering Informatics, Elsevier, 2027."
     pdf: https://www.sciencedirect.com/science/article/pii/S1474034626010657?dgcid=coauthor
     image: ./assets/img/ultra_short.png
-
 
   - title: "Reactivating Test-Time Scaling for Plane Geometry Problem Solving"
     authors: Xiaoqiang Kang, Shengen Wu, <strong>Maizhen Ning</strong>, Xiaobo Jin, Kaizhu Huang, Yutao Yue, Xiaowei Huang, Qiufeng Wang.
